@@ -1,0 +1,9 @@
+[package]
+name = "snake"
+version = "0.1.0"
+authors = ["finleygn <finleygarton12@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+termion = "1.5.6"
+rand = "0.8.0"
